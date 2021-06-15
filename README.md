@@ -3,7 +3,7 @@
 <b>I'm Israel, web Developer Junior and Software Enginering student :books: :computer:</b>
 
 - 🔭 I’m currently working on Spezi Tecnologia with Ruby on Rails and VueJS
-- :books: I'm currently learning more about Javascript, NodeJS, Ruby on Rails, Docker and Docker compose
+- :books: I'm currently learning more about Javascript, NodeJS, Docker and Docker compose
 
 
 <p>
