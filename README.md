@@ -7,9 +7,9 @@
 
 
 <p>
-  <a href="https://t.me/IsraeelGouveia"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" width="32" height="32" alt="Computer Hope"/><a>
+  <a href="https://t.me/IsraeelGouveia"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/><a>
 <a href="https://bit.ly/3xKMy8g"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a>
-<a href="https://bit.ly/2Svw1oN"><img src="https://user-images.githubusercontent.com/43561785/118412239-49c1e100-b66f-11eb-80ae-7f2fe200f4d1.png" width="32" height="32" alt="Computer Hope"/><a>
+<a href="https://bit.ly/2Svw1oN"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><a>
 </p>
   
   
