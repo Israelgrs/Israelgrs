@@ -28,4 +28,5 @@
     <img src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" width="32" height="32" alt="Computer Hope"/>
  </p>
   
- <p> <img align="left" src= "github-readme-stats-israelgrs.vercel.app/api?username=Israelgrs&show_icons=true&hide_border=true" alt="Israelgrs GitHub stats"  width="410" /> </p>
+ <p> <img align="left" src= "https://github-readme-stats-israelgrs.vercel.app/api?username=Israelgrs&show_icons=true&hide_border=true" alt="Israelgrs GitHub stats"  width="410" /> </p>
+
