@@ -26,7 +26,5 @@
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="32" height="32" alt="Computer Hope"/>
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="32" height="32" alt="Computer Hope"/>
     <img src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" width="32" height="32" alt="Computer Hope"/>
-  
-
-  
-  </p>
+ </p>
+<img align="left" alt="Israelgrs GitHub stats" src "github-readme-stats-hazel-one.vercel.app/api?username=Israelgrs&show_icons=true&hide_border=true"/>
