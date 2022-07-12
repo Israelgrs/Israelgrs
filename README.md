@@ -1,10 +1,10 @@
 ### Hi there 👋
 <h1 align="center"><b>Israel Gouveia</b></h1
-<b>I'm Israel, web Developer Junior and Software Enginering student :books: :computer:</b>
+<b>I'm Israel, Backend Developer  and Software Enginering student :books: :computer:</b>
 
 
 
-- 🔭 I’m currently working on Spezi Tecnologia with Ruby on Rails and VueJS
+- 🔭 I’m currently working at Dimensa Tecnologia as Backend Developer with Ruby on Rails
 - :books: I'm currently learning more about Javascript, NodeJS, Docker and Docker compose
 
 
