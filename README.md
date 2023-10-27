@@ -25,8 +25,11 @@
     <img src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" width="32" height="32" alt="Computer Hope"/>
  </p>
   
- <p> <img align="left" src= "https://github-readme-stats-israelgrs.vercel.app/api?username=Israelgrs&show_icons=true&hide_border=true" alt="Israelgrs GitHub stats"  width="410" /> </p> <br/> <br>
-
+<div align="center">
+  <a href="https://github.com/Israelgrs">
+  <img height="180em" src="https://github-readme-stats-israelgrs.vercel.app/api?username=Israelgrs&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israelgrs&layout=compact&langs_count=7&theme=dark"/>
+</div>
  <br/> <br/> <br/> <br/>  <br/>
 <p align="center">
   Find me here: <br/>
