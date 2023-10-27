@@ -24,16 +24,15 @@
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="32" height="32" alt="Computer Hope"/>
     <img src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" width="32" height="32" alt="Computer Hope"/>
  </p>
-  
 <div align="center">
   <a href="https://github.com/Israelgrs">
   <img height="180em" src="https://github-readme-stats-israelgrs.vercel.app/api?username=Israelgrs&layout=compact&langs_count=7&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israelgrs&layout=compact&langs_count=7&theme=dark"/>
 </div>
- <br/> <br/> <br/> <br/>  <br/>
+ <br/>
 <p align="center">
   Find me here: <br/>
-  <a href="https://t.me/IsraeelGouveia"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/><a>
+<a href="https://t.me/IsraeelGouveia"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/><a>
 <a href="https://bit.ly/3xKMy8g"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a>
 <a href="https://bit.ly/2Svw1oN"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><a>
 </p>
