@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working at Dimensa Tecnologia as Backend Developer with Ruby on Rails
+- 🔭 I’m currently working at Haistack.ai as Software Engineer
 - :books: I'm currently learning more about Javascript, NodeJS, Docker and Docker compose
 
 
