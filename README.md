@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center"><b>Israel Gouveia</b></h1
-<b>I'm Israel, Backend Developer  and Software Enginering student :books: :computer:</b>
+<b>I'm Israel, Senior fullstack Software Engineer :computer:</b>
 
 
 
