@@ -5,8 +5,6 @@
 
 
 - 🔭 I’m currently working at Ploomes as Software Engineer
-- :books: I'm currently learning more about Javascript, NodeJS, Docker and Docker compose
-
 
   
   
