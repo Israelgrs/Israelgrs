@@ -36,7 +36,7 @@ Backend engineer from Brasília, Brazil, with <!--yoe-->5<!--/yoe-->+ years desi
 | **Haistack.ai** (AI legal recruitment) | Backend APIs, bulk data ingestion, data pipelines, AI integration | [Website](https://haistack.ai/) |
 | **Meu Pamcard** (formerly Pambank · digital account for truck drivers) | Entire backend infrastructure, APIs, and integrations | [App Store](https://apps.apple.com/br/app/meu-pamcard/id1569255005) / [Google Play](https://play.google.com/store/apps/details?id=br.com.roadcard.pambank) |
 | **TruckPag** (digital bank for truck drivers) | Entire backend infrastructure, APIs, and integrations | [App Store](https://apps.apple.com/br/app/truckpag/id1635355553) / [Google Play](https://play.google.com/store/apps/details?id=br.com.truckpag) |
-| **ICONIC Pesquisa** (field price research) | Entire backend infrastructure, APIs, and integrations | [App Store](https://apps.apple.com/br/app/iconic-pesquisa/id1283387838) |
+| **ICONIC** (field price research) | Entire backend infrastructure, APIs, and integrations | [App Store](https://apps.apple.com/br/app/iconic-pesquisa/id1283387838) |
 
 ---
 
